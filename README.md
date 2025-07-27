@@ -31,16 +31,15 @@ This project is a front-end web animation system where a snow-style icon dynamic
 
 <span>👉 Desktop Design</span><br/>
 <a href="" target="_blank" >
-<img src="./light-dark-mode.gif" width="575px"/>
+<img src="./Dynamic Snow Cursor.gif" width="575px"/>
 </a>
 
 <span>👉 Desktop Design</span><br/>
 <a href="" target="_blank" >
-<img src="./" width="275px"/>
-<img src="./" width="275px"/>
+<img src="./Dynamic-Snow-Cursor.png" width="275px"/>
 </a>
 
 <span>👉 Cover Design</span><br/>
 <a href="" target="_blank" >
-<img src="./" width="375px"/>
+<img src="./cover.png" width="375px"/>
 </a>
