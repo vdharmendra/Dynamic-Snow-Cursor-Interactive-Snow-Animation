@@ -1,5 +1,4 @@
-# Project Idea (Concept Summary for College Submission)
-Project Title: Dynamic Snow Cursor | Interactive Snow Animation
+# Dynamic Snow Cursor | Interactive Snow Animation
 
 - 
 ## 🚀 Profile 
@@ -30,16 +29,16 @@ This project is a front-end web animation system where a snow-style icon dynamic
 - Use this animation for a UI menu, game interface, or industrial dashboard demo.
 
 <span>👉 Desktop Design</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/231241853/Dynamic-Snow-Cursor-Interactive-Snow-Animation" target="_blank" >
 <img src="./Dynamic Snow Cursor.gif" width="575px"/>
 </a>
 
 <span>👉 Desktop Design</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/231241853/Dynamic-Snow-Cursor-Interactive-Snow-Animation" target="_blank" >
 <img src="./Dynamic-Snow-Cursor.png" width="275px"/>
 </a>
 
 <span>👉 Cover Design</span><br/>
-<a href="" target="_blank" >
+<a href="https://www.behance.net/gallery/231241853/Dynamic-Snow-Cursor-Interactive-Snow-Animation" target="_blank" >
 <img src="./cover.png" width="375px"/>
 </a>
